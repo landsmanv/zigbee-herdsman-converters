@@ -32,6 +32,7 @@ module.exports = [
             {modelID: 'TS0502B', manufacturerName: '_TZ3210_frm6149r'},
             {modelID: 'TS0502B', manufacturerName: '_TZ3210_jtifm80b'},
             {modelID: 'TS0502B', manufacturerName: '_TZ3210_xwqng7ol'},
+            {modelID: 'TS0502B', manufacturerName: '_TZB210_lmqquxus'},
         ],
         model: 'FUT035Z',
         description: 'Dual white LED controller',
